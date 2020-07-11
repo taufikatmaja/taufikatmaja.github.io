@@ -450,7 +450,7 @@ h1, h2, h3, h4, h5,
     font-size: 1.7rem; }
     .site-navbar .site-logo a {
       color: #ffffff;
-      text-transform: lowercase; }
+      text-transform: none; }
     @media (max-width: 991.98px) {
       .site-navbar .site-logo {
         float: left;
